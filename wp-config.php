@@ -20,10 +20,10 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'chimp_jobcareer_main' );
+define( 'DB_NAME', 'u312518386_foodbakery' );
 
 /** Database username */
-define( 'DB_USER', 'chimp_themes' );
+define( 'DB_USER', 'u312518386_foodbakery' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'dfCu=9MWGvdg' );
